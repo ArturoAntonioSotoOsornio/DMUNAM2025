@@ -57,6 +57,7 @@ Se aplicaron tres métodos de clustering:
 
 - `proceso_ML_v_2.0_cluster.ipynb`: Notebook con todo el proceso.
 - `proceso_ML_v_2.0_cluster combinar datos.ipynb`: Notebook donde se unieron todos los arhivos de 2010 - 2025.
+- `ecobicidatos.csv`: CSV de todos los arhivos de 2010 - 2025 unidos.
 - `README.md`: Este archivo con la descripción de la práctica.
 
 ---
