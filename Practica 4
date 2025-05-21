@@ -1,4 +1,9 @@
 ## Practica 4
 ## Proceso de la practica
-- Subir los datos a 
+- Subir los datos a bucket de AWS S3 url:s3://practica5eli/
 - Convertir los CVS a JSON eliminando microsegundos.
+- Eliminar los datos corruptos
+- Rellenar datos nulos de genero aleatoriamente
+- Unir los JSON a PARQUET
+- volver a unir los PARQUET
+Todo se trabajo en AWS
